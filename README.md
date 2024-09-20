@@ -10,7 +10,7 @@
 
 📫 How to reach me:
    - Email: bharathrdaniel@gmail.com
-   - LinkedIn: [Bharath Ravi](https://www.linkedin.com/in/bharathravi) (You'll need to add your actual LinkedIn profile URL)
+   - LinkedIn: [Bharath Ravi](https://www.linkedin.com/in/bharath-r-714469143) (You'll need to add your actual LinkedIn profile URL)
    - Location: United Kingdom
 
 🛠️ Skills:
