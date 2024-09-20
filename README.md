@@ -23,4 +23,4 @@
 🎓 Education:
    - Bachelor of Commerce, Bangalore University, India (2017)
 
-⚡ Fun fact: I've successfully managed operations across diverse industries, from fitness e-commerce to global financial services!
+⚡ Fun fact: I've successfully managed to figure out my passion.
