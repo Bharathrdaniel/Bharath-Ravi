@@ -1,4 +1,3 @@
-# Bharath Ravi
 
 👋 Hi, I'm Bharath, a versatile professional with experience in e-commerce, business development, and financial operations.
 
