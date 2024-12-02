@@ -9,7 +9,7 @@
 🌱 Currently expanding my expertise in:
 - Advanced data analytics and visualization techniques
 - Machine learning applications in e-commerce
-- Predictive modeling for inventory management and demand forecasting
+- Predictive modelling for inventory management and demand forecasting
 
 💼 Key Areas of Expertise:
 - E-commerce operations and content optimization
