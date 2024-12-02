@@ -23,7 +23,7 @@
 - Business process automation in retail and finance sectors
 
 🎓 Education:
-- Bachelor of Commerce, Bangalore University, India (2017)
+- Bachelor of Commerce, Bangalore University, India (2016)
 
 🛠️ Technical Skills:
 - Data Analysis: Power BI, Excel, Google Analytics
